@@ -1,5 +1,5 @@
 function Home() {
-  return <h1> Aqui vai ser a paginainicial</h1>;
+  return <h1> E ae vamos dar início ao nosso projeto?</h1>;
 }
 
 export default Home;
